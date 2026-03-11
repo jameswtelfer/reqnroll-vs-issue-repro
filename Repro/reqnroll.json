@@ -1,0 +1,8 @@
+{
+    "$schema": "https://schemas.reqnroll.net/reqnroll-config-latest.json",
+    // add the line below
+    "generator": { "allowRowTests": false },
+
+    "bindingAssemblies": [
+    ]
+}
